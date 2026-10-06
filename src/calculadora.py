@@ -34,3 +34,4 @@ def dividir(a, b):
 
 def potencia(base, exponente):
     return base ** exponente
+
